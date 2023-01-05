@@ -18,8 +18,8 @@ public:
 	std::string result() {
 		return s;
 	}
-};
-
+}
+;
 int main() {
 	std::ios_base::sync_with_stdio(0);
 	std::string s;
